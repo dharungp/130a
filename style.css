@@ -1,0 +1,53 @@
+.test_image_and_results{
+    background-color: gray;
+
+}
+
+.google{
+    background-color: blueviolet;
+
+}
+.mobile{
+    background-color: white;
+}
+
+h4{
+    color: lightblue;
+}
+
+h5{
+    color: lightblue;
+}
+
+.vs{
+color: cornflowerblue;
+}
+
+h3{
+    color: red;
+}
+
+h1{
+    color:aquamarine;
+}
+
+div 
+  {
+    border:5px solid white;
+    border-radius:20px;
+    margin-top:150px;
+    box-shadow:5px 5px 5px grey;
+    box-shadow: 1px 1px 38px #ffffff;
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+@keyframes example {
+
+  from {box-shadow: 1px 1px 38px grey;}
+  to {box-shadow: 1px 1px 38px white;}
+
+}
+span{
+    color: red;
+}
